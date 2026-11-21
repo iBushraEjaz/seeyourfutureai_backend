@@ -1,0 +1,2801 @@
+{
+  "meta": {
+    "scoringVersion": "visa-v1",
+    "applicant_levels": [
+      "bachelors",
+      "taught_masters",
+      "research_masters",
+      "phd"
+    ],
+    "source_note": "Check the latest official immigration guidance of the destination country before applying. Requirements can change and may depend on your nationality and residence."
+  },
+  "countries": {
+    "AE": {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "source_url": "https://www.ica.gov.ae/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ae_entry_permit",
+          "title": "Student Entry Permit / Residence Visa",
+          "subtitle": "Issued through your university's sponsorship; required to reside and study in the UAE.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.ica.gov.ae/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ae_tenancy",
+          "title": "Proof of Accommodation",
+          "subtitle": "University housing contract or tenancy agreement (Ejari in Dubai).",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.ica.gov.ae/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ae_medical",
+          "title": "Medical Fitness Test",
+          "subtitle": "UAE-approved medical centre screening, including blood tests and chest X-ray.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.dha.gov.ae/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "AE_scholarship_1",
+          "title": "University and government scholarships",
+          "subtitle": "Scholarship example for United Arab Emirates. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "AL": {
+      "code": "AL",
+      "name": "Albania",
+      "source_url": "https://www.asylum.gov.al/en/visas",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "al_type_d",
+          "title": "National Visa (Type D)",
+          "subtitle": "Long-stay study visa issued by Albanian diplomatic missions.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.asylum.gov.al/en/visas",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "al_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Apply within 30 days of entry at the local migration office.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.asylum.gov.al/en/visas",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "AL_scholarship_1",
+          "title": "Government or university merit scholarships",
+          "subtitle": "Scholarship example for Albania. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "AT": {
+      "code": "AT",
+      "name": "Austria",
+      "source_url": "https://www.bmeia.gv.at/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "at_residence_permit_student",
+          "title": "Residence Permit - Student",
+          "subtitle": "Apply before arrival; proof of admission, funds, and health insurance required.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bmeia.gv.at/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "at_registration",
+          "title": "Municipal Registration (Meldezettel)",
+          "subtitle": "Register your address with the local municipality within three days of arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bmeia.gv.at/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "AT_scholarship_1",
+          "title": "OeAD scholarships",
+          "subtitle": "Scholarship example for Austria. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "AU": {
+      "code": "AU",
+      "name": "Australia",
+      "source_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-visa-500",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "au_coe",
+          "title": "Confirmation of Enrolment (CoE)",
+          "subtitle": "Issued by your education provider; required to lodge the Student visa (subclass 500) application.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-visa-500",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "au_oshc",
+          "title": "Overseas Student Health Cover (OSHC)",
+          "subtitle": "Health insurance for the duration of your stay, from an approved Australian provider.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-visa-500",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "au_genuine_student",
+          "title": "Genuine Student (GS) Requirement",
+          "subtitle": "Statement explaining why you chose Australia, the course, and how it fits your goals.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-visa-500",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "AU_scholarship_1",
+          "title": "Australia Awards Scholarships",
+          "subtitle": "Scholarship example for Australia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "AU_scholarship_2",
+          "title": "Research Training Program (RTP)",
+          "subtitle": "Scholarship example for Australia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "BE": {
+      "code": "BE",
+      "name": "Belgium",
+      "source_url": "https://dofi.belgium.be/en/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "be_professional_card",
+          "title": "Professional Card (Student)",
+          "subtitle": "Non-EU students staying more than 90 days apply via the municipality after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://dofi.belgium.be/en/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "be_registration",
+          "title": "Municipal Registration",
+          "subtitle": "Register at the municipal administration within eight working days of arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://dofi.belgium.be/en/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "BE_scholarship_1",
+          "title": "ARES scholarships",
+          "subtitle": "Scholarship example for Belgium. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "BE_scholarship_2",
+          "title": "VLIR-UOS scholarships",
+          "subtitle": "Scholarship example for Belgium. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "BG": {
+      "code": "BG",
+      "name": "Bulgaria",
+      "source_url": "https://www.mvr.bg/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "bg_type_d",
+          "title": "Long-Stay Visa (Type D)",
+          "subtitle": "Study visa for programmes longer than 90 days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mvr.bg/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "bg_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Apply at the migration directorate after arrival in Bulgaria.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mvr.bg/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "BG_scholarship_1",
+          "title": "Bulgarian Government scholarships",
+          "subtitle": "Scholarship example for Bulgaria. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "CA": {
+      "code": "CA",
+      "name": "Canada",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ca_study_permit",
+          "title": "Study Permit",
+          "subtitle": "Required for programmes longer than six months; apply with a provincial attestation letter where required.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ca_loa",
+          "title": "Letter of Acceptance",
+          "subtitle": "From a designated learning institution (DLI), including the DLI number.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ca_provincial_attestation",
+          "title": "Provincial Attestation Letter (PAL)",
+          "subtitle": "Required for most college and undergraduate applicants; confirms allocation under provincial/territorial caps.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters"
+          ],
+          "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ca_giC",
+          "title": "Guaranteed Investment Certificate (GIC)",
+          "subtitle": "Often required under the Student Direct Stream (SDS) to show living funds.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [
+        {
+          "id": "ca_medical_exam",
+          "title": "Medical Examination",
+          "subtitle": "Required if you lived or travelled in certain countries for six months or more, or for some healthcare programmes.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "condition": {
+            "type": "residence",
+            "note": "Lived/travelled in designated countries for 6+ months"
+          },
+          "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "scholarships": [
+        {
+          "id": "CA_scholarship_1",
+          "title": "Vanier Canada Graduate Scholarships",
+          "subtitle": "Scholarship example for Canada. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "CA_scholarship_2",
+          "title": "University graduate funding",
+          "subtitle": "Scholarship example for Canada. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "CH": {
+      "code": "CH",
+      "name": "Switzerland",
+      "source_url": "https://www.sem.gov.ch/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ch_national_visa",
+          "title": "National Visa (Category D)",
+          "subtitle": "Non-EU/EFTA students apply before entry; register with the cantonal migration office after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.sem.gov.ch/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ch_residence_permit",
+          "title": "Residence Permit (Permit B/L)",
+          "subtitle": "Apply within 14 days of entry at the cantonal population office.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.sem.gov.ch/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "CH_scholarship_1",
+          "title": "Swiss Government Excellence Scholarships",
+          "subtitle": "Scholarship example for Switzerland. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "CN": {
+      "code": "CN",
+      "name": "China",
+      "source_url": "https://www.csm.china-consulate.org/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "cn_x_visa",
+          "title": "X1/X2 Student Visa",
+          "subtitle": "X1 for studies over 180 days (residence permit after entry); X2 for studies under 180 days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.csm.china-consulate.org/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "cn_jw201",
+          "title": "JW201/JW202 Form",
+          "subtitle": "Visa application for study in China, issued by the admitting institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.csm.china-consulate.org/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "cn_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "X1 holders apply within 30 days of entry at the local public security bureau exit-entry office.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.csm.china-consulate.org/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "CN_scholarship_1",
+          "title": "Chinese Government Scholarship (CSC)",
+          "subtitle": "Scholarship example for China. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "CY": {
+      "code": "CY",
+      "name": "Cyprus",
+      "source_url": "https://www.moi.gov.cy/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "cy_entry_permit",
+          "title": "Entry Visa / Temporary Residence Permit",
+          "subtitle": "Non-EU students obtain an entry visa and convert it to a temporary residence permit after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.moi.gov.cy/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "CY_scholarship_1",
+          "title": "Cyprus Government and university scholarships",
+          "subtitle": "Scholarship example for Cyprus. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "CZ": {
+      "code": "CZ",
+      "name": "Czechia",
+      "source_url": "https://www.mvcr.cz/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "cz_long_term_visa",
+          "title": "Long-Term Visa / Residence Permit for Study",
+          "subtitle": "Apply before departure; long-term residence permit applied for after arrival if staying over one year.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mvcr.cz/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "cz_registration",
+          "title": "Foreign Police Registration",
+          "subtitle": "Register your residence with the Foreign Police within three working days of arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mvcr.cz/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "CZ_scholarship_1",
+          "title": "Czech Government Scholarships",
+          "subtitle": "Scholarship example for Czechia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "DE": {
+      "code": "DE",
+      "name": "Germany",
+      "source_url": "https://www.bamf.de/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "de_national_visa",
+          "title": "National Visa (D-Visa) for Study",
+          "subtitle": "Non-EU students apply at the German embassy/consulate before entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bamf.de/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "de_blocked_account",
+          "title": "Blocked Account (Sperrkonto)",
+          "subtitle": "Blocked account to prove funds for living expenses, with monthly payout limits.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bamf.de/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "de_aps",
+          "title": "APS Certificate",
+          "subtitle": "Required for applicants from certain countries (e.g. India, China, Vietnam) to verify academic documents.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "condition": {
+            "type": "nationality",
+            "in": [
+              "IN",
+              "CN",
+              "VN"
+            ]
+          },
+          "source_url": "https://www.aps-india.in/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "de_health_insurance",
+          "title": "Health Insurance",
+          "subtitle": "German public or private student health insurance for enrolment and visa.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bamf.de/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "DE_scholarship_1",
+          "title": "DAAD scholarships",
+          "subtitle": "Scholarship example for Germany. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "DK": {
+      "code": "DK",
+      "name": "Denmark",
+      "source_url": "https://newtodenmark.dk/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "dk_residence_permit",
+          "title": "Residence Permit for Study",
+          "subtitle": "Non-EU/EEA students apply before entering Denmark.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://newtodenmark.dk/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "DK_scholarship_1",
+          "title": "Danish Government Scholarships",
+          "subtitle": "Scholarship example for Denmark. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "EG": {
+      "code": "EG",
+      "name": "Egypt",
+      "source_url": "https://www.mfa.gov.eg/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "eg_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Obtained from Egyptian diplomatic missions with an admission letter from an Egyptian institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gov.eg/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "eg_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Register with the passport and immigration authority after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gov.eg/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "EG_scholarship_1",
+          "title": "Egyptian Government and university scholarships",
+          "subtitle": "Scholarship example for Egypt. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "ES": {
+      "code": "ES",
+      "name": "Spain",
+      "source_url": "https://exteriors.gob.es/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "es_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Apply at the Spanish consulate before entry for courses longer than 90 days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://exteriors.gob.es/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "es_tie",
+          "title": "TIE (Foreigner Identity Card)",
+          "subtitle": "Apply at the immigration office or police station within one month of entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://exteriors.gob.es/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "ES_scholarship_1",
+          "title": "Spanish Government and university scholarships",
+          "subtitle": "Scholarship example for Spain. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "FI": {
+      "code": "FI",
+      "name": "Finland",
+      "source_url": "https://migri.fi/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "fi_residence_permit",
+          "title": "Residence Permit for Studies",
+          "subtitle": "Apply online before entering Finland; prove admission, funds, and insurance.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://migri.fi/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "FI_scholarship_1",
+          "title": "Finland Scholarship",
+          "subtitle": "Scholarship example for Finland. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "FI_scholarship_2",
+          "title": "University tuition waivers",
+          "subtitle": "Scholarship example for Finland. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "FR": {
+      "code": "FR",
+      "name": "France",
+      "source_url": "https://france-visas.gouv.fr/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "fr_vls_ts",
+          "title": "VLS-TS Student Visa",
+          "subtitle": "Long-stay visa equivalent to a residence permit; validate online within three months of arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://france-visas.gouv.fr/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "fr_campus_france",
+          "title": "Campus France Procedure",
+          "subtitle": "Required for applicants from many countries to validate the academic project before a visa appointment.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "condition": {
+            "type": "nationality",
+            "note": "Required for citizens of countries in the Etudes en France procedure"
+          },
+          "source_url": "https://www.campusfrance.org/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "FR_scholarship_1",
+          "title": "Eiffel Excellence Scholarship",
+          "subtitle": "Scholarship example for France. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "GB": {
+      "code": "GB",
+      "name": "United Kingdom",
+      "source_url": "https://www.gov.uk/student-visa",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "gb_cas",
+          "title": "Confirmation of Acceptance for Studies (CAS)",
+          "subtitle": "Issued by your licensed Student sponsor; required to apply for the Student visa.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.gov.uk/student-visa",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "gb_tb_test",
+          "title": "Tuberculosis (TB) Test",
+          "subtitle": "Required if you are resident in a listed country; include the certificate with your application.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "condition": {
+            "type": "residence",
+            "note": "Resident in a UK-listed TB-test country"
+          },
+          "source_url": "https://www.gov.uk/tb-test-tuberculosis/apply-for-a-tb-test-certificate",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "gb_atas",
+          "title": "ATAS Certificate",
+          "subtitle": "Required for some sensitive postgraduate subjects; check your course code before applying.",
+          "applicability": "conditional",
+          "category": "country",
+          "levels": [
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "condition": {
+            "type": "subject",
+            "note": "Sensitive science/technology subjects"
+          },
+          "source_url": "https://www.gov.uk/guidance/academic-technology-approval-scheme",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "GB_scholarship_1",
+          "title": "Chevening Scholarships",
+          "subtitle": "Scholarship example for United Kingdom. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "GB_scholarship_2",
+          "title": "Commonwealth Scholarships",
+          "subtitle": "Scholarship example for United Kingdom. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "GB_scholarship_3",
+          "title": "GREAT Scholarships",
+          "subtitle": "Scholarship example for United Kingdom. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "GE": {
+      "code": "GE",
+      "name": "Georgia",
+      "source_url": "https://www.mfa.gov.ge/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ge_residence_permit",
+          "title": "Residence Permit for Study",
+          "subtitle": "Apply at the Public Service Hall after admission to a Georgian educational institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gov.ge/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "GE_scholarship_1",
+          "title": "Georgian Government and university scholarships",
+          "subtitle": "Scholarship example for Georgia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "GR": {
+      "code": "GR",
+      "name": "Greece",
+      "source_url": "https://www.mfa.gr/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "gr_national_visa",
+          "title": "National Visa (Type D)",
+          "subtitle": "Non-EU students apply at Greek consular authorities before entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gr/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "gr_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Apply at the Aliens and Immigration Directorate after entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gr/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "GR_scholarship_1",
+          "title": "Greek Government (IKY) scholarships",
+          "subtitle": "Scholarship example for Greece. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "HR": {
+      "code": "HR",
+      "name": "Croatia",
+      "source_url": "https://mup.gov.hr/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "hr_temporary_residence",
+          "title": "Temporary Residence for Study",
+          "subtitle": "Non-EU students apply at the police administration after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://mup.gov.hr/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "HR_scholarship_1",
+          "title": "Croatian Government Scholarships",
+          "subtitle": "Scholarship example for Croatia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "HU": {
+      "code": "HU",
+      "name": "Hungary",
+      "source_url": "https://www.bmb.hu/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "hu_residence_permit",
+          "title": "Residence Permit for Study",
+          "subtitle": "Apply within 30 days of entry at the National Directorate General for Aliens Policing.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bmb.hu/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "hu_address_card",
+          "title": "Address Card (Lakcimkartya)",
+          "subtitle": "Register your address and obtain an address card after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.bmb.hu/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "HU_scholarship_1",
+          "title": "Stipendium Hungaricum",
+          "subtitle": "Scholarship example for Hungary. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "ID": {
+      "code": "ID",
+      "name": "Indonesia",
+      "source_url": "https://www.imigrasi.go.id/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "id_student_visa",
+          "title": "Student Visa / Limited Stay Permit",
+          "subtitle": "Sponsored by the Indonesian educational institution; convert to a limited stay permit after entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.imigrasi.go.id/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "id_itas",
+          "title": "Limited Stay Permit (ITAS)",
+          "subtitle": "Apply through the immigration office with university sponsorship.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.imigrasi.go.id/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "ID_scholarship_1",
+          "title": "Indonesia Endowment Fund for Education (LPDP)",
+          "subtitle": "Scholarship example for Indonesia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "ID_scholarship_2",
+          "title": "Darmasiswa",
+          "subtitle": "Scholarship example for Indonesia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "IE": {
+      "code": "IE",
+      "name": "Ireland",
+      "source_url": "https://www.irishimmigration.ie/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ie_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Non-EEA students apply online before travel; register with immigration after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.irishimmigration.ie/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ie_irp",
+          "title": "Irish Residence Permit (IRP)",
+          "subtitle": "Register at the immigration office within 90 days of arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.irishimmigration.ie/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "IE_scholarship_1",
+          "title": "Government of Ireland International Education Scholarships",
+          "subtitle": "Scholarship example for Ireland. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "IN": {
+      "code": "IN",
+      "name": "India",
+      "source_url": "https://indianvisaonline.gov.in/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "in_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Multiple-entry visa valid for the duration of the course, issued with an admission letter.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://indianvisaonline.gov.in/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "in_frro",
+          "title": "FRRO Registration",
+          "subtitle": "Register with the Foreigners Regional Registration Office within 14 days for courses over 180 days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://indianvisaonline.gov.in/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "IN_scholarship_1",
+          "title": "Indian Council for Cultural Relations (ICCR) scholarships",
+          "subtitle": "Scholarship example for India. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "IQ": {
+      "code": "IQ",
+      "name": "Iraq",
+      "source_url": "https://www.mofi.gov.iq/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "iq_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Obtained through Iraqi diplomatic missions with institutional sponsorship.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mofi.gov.iq/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "iq_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Apply at the residency and nationality directorate after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mofi.gov.iq/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "IQ_scholarship_1",
+          "title": "Government and university scholarships",
+          "subtitle": "Scholarship example for Iraq. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "IR": {
+      "code": "IR",
+      "name": "Iran",
+      "source_url": "https://www.mfa.gov.ir/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ir_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Issued by Iranian diplomatic missions with university admission documentation.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gov.ir/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ir_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Register with the aliens affairs office after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mfa.gov.ir/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "IR_scholarship_1",
+          "title": "Government and university scholarships",
+          "subtitle": "Scholarship example for Iran. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "IT": {
+      "code": "IT",
+      "name": "Italy",
+      "source_url": "https://www.vistiperitalia.esteri.it/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "it_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Non-EU students apply at the Italian consulate before entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.vistiperitalia.esteri.it/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "it_permesso_soggiorno",
+          "title": "Permesso di Soggiorno",
+          "subtitle": "Apply at the post office within eight working days of entry; collect at the questura.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.vistiperitalia.esteri.it/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "IT_scholarship_1",
+          "title": "Italian Government (MAECI) scholarships",
+          "subtitle": "Scholarship example for Italy. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "JP": {
+      "code": "JP",
+      "name": "Japan",
+      "source_url": "https://www.moj.go.jp/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "jp_coe",
+          "title": "Certificate of Eligibility (CoE)",
+          "subtitle": "Applied for by your school at the regional immigration bureau; required for the student visa.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.moj.go.jp/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "jp_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Apply at a Japanese embassy/consulate with the issued CoE.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.moj.go.jp/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "jp_residence_card",
+          "title": "Residence Card",
+          "subtitle": "Issued at major airports on entry; carry it at all times.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.moj.go.jp/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "JP_scholarship_1",
+          "title": "MEXT Scholarship",
+          "subtitle": "Scholarship example for Japan. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "KR": {
+      "code": "KR",
+      "name": "South Korea",
+      "source_url": "https://www.hikorea.go.kr/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "kr_d2_visa",
+          "title": "D-2 Student Visa",
+          "subtitle": "For degree programmes; apply at a Korean embassy/consulate with the admission certificate.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.hikorea.go.kr/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "kr_arc",
+          "title": "Alien Registration Card (ARC)",
+          "subtitle": "Apply at the local immigration office within 90 days of entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.hikorea.go.kr/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "KR_scholarship_1",
+          "title": "Global Korea Scholarship (GKS)",
+          "subtitle": "Scholarship example for South Korea. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "LT": {
+      "code": "LT",
+      "name": "Lithuania",
+      "source_url": "https://www.migracija.lt/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "lt_national_visa",
+          "title": "National Visa (D) / Temporary Residence Permit",
+          "subtitle": "Non-EU students apply for a national visa and convert to a temporary residence permit after entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.migracija.lt/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "LT_scholarship_1",
+          "title": "Lithuanian State Scholarships",
+          "subtitle": "Scholarship example for Lithuania. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "MA": {
+      "code": "MA",
+      "name": "Morocco",
+      "source_url": "https://www.dsti.gov.ma/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ma_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Obtained from Moroccan diplomatic missions with admission documentation.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.dsti.gov.ma/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ma_residence_card",
+          "title": "Residence Card",
+          "subtitle": "Apply at the police foreigners bureau after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.dsti.gov.ma/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "MA_scholarship_1",
+          "title": "Moroccan Government and AMCI scholarships",
+          "subtitle": "Scholarship example for Morocco. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "MX": {
+      "code": "MX",
+      "name": "Mexico",
+      "source_url": "https://www.inm.gob.mx/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "mx_temporary_resident",
+          "title": "Temporary Resident Visa (Student)",
+          "subtitle": "Apply at a Mexican consulate before entry for courses over 180 days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.inm.gob.mx/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "mx_tarjeta",
+          "title": "Tarjeta de Residente",
+          "subtitle": "Validate at the immigration institute within 30 calendar days of entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.inm.gob.mx/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "MX_scholarship_1",
+          "title": "Mexican Government and university scholarships",
+          "subtitle": "Scholarship example for Mexico. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "MY": {
+      "code": "MY",
+      "name": "Malaysia",
+      "source_url": "https://www.educationmalaysia.gov.my/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "my_emgs",
+          "title": "EMGS Visa Approval Letter",
+          "subtitle": "Obtained through Education Malaysia Global Services before applying for the visa.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.educationmalaysia.gov.my/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "my_student_pass",
+          "title": "Student Pass",
+          "subtitle": "Endorsed on your passport after entry; arranged by the institution through EMGS.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.educationmalaysia.gov.my/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "my_medical",
+          "title": "Medical Examination",
+          "subtitle": "Health screening at an EMGS-approved panel clinic before or after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.educationmalaysia.gov.my/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "MY_scholarship_1",
+          "title": "Malaysia International Scholarship (MIS)",
+          "subtitle": "Scholarship example for Malaysia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "MY_scholarship_2",
+          "title": "MTCP Scholarship",
+          "subtitle": "Scholarship example for Malaysia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "NL": {
+      "code": "NL",
+      "name": "Netherlands",
+      "source_url": "https://ind.nl/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "nl_mvv",
+          "title": "MVV (Entry Visa)",
+          "subtitle": "Non-EU/EEA students need an MVV before travel; your institution usually applies for it.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://ind.nl/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "nl_residence_permit",
+          "title": "Residence Permit for Study",
+          "subtitle": "Applied for by the educational institution after the MVV is issued.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://ind.nl/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "NL_scholarship_1",
+          "title": "NL Scholarship",
+          "subtitle": "Scholarship example for Netherlands. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "NL_scholarship_2",
+          "title": "Orange Knowledge Programme",
+          "subtitle": "Scholarship example for Netherlands. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "NO": {
+      "code": "NO",
+      "name": "Norway",
+      "source_url": "https://www.udi.no/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "no_residence_permit",
+          "title": "Residence Permit for Education",
+          "subtitle": "Apply online before entering Norway; prove admission, funds, and housing.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.udi.no/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "NO_scholarship_1",
+          "title": "University and research-funded positions",
+          "subtitle": "Scholarship example for Norway. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "NZ": {
+      "code": "NZ",
+      "name": "New Zealand",
+      "source_url": "https://www.immigration.govt.nz/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "nz_fee_student_visa",
+          "title": "Fee-Paying Student Visa",
+          "subtitle": "Required for courses longer than three months, with an offer of place from an approved provider.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.immigration.govt.nz/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "NZ_scholarship_1",
+          "title": "Manaaki New Zealand Scholarships",
+          "subtitle": "Scholarship example for New Zealand. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "PK": {
+      "code": "PK",
+      "name": "Pakistan",
+      "source_url": "https://www.dgip.gov.pk/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "pk_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Issued by Pakistani diplomatic missions with admission to a recognised institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.dgip.gov.pk/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "pk_residence_permit",
+          "title": "Residence Permit",
+          "subtitle": "Register with the Foreigners Registration Office after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.dgip.gov.pk/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "PK_scholarship_1",
+          "title": "HEC and university scholarships",
+          "subtitle": "Scholarship example for Pakistan. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "PL": {
+      "code": "PL",
+      "name": "Poland",
+      "source_url": "https://www.gov.pl/web/ciazo/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "pl_national_visa",
+          "title": "National Visa (Type D)",
+          "subtitle": "Non-EU students apply at a Polish consulate before entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.gov.pl/web/ciazo/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "pl_residence_permit",
+          "title": "Temporary Residence Permit for Study",
+          "subtitle": "Apply at the voivodeship office within the validity of your national visa.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.gov.pl/web/ciazo/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "PL_scholarship_1",
+          "title": "Poland My First Choice / NAWA programmes",
+          "subtitle": "Scholarship example for Poland. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "PT": {
+      "code": "PT",
+      "name": "Portugal",
+      "source_url": "https://www.sef.pt/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "pt_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Non-EU/EEA students apply at a Portuguese consulate before entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.sef.pt/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "pt_residence_title",
+          "title": "Residence Title for Study",
+          "subtitle": "Apply at AIMA/SEF after arrival within the visa validity period.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.sef.pt/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "PT_scholarship_1",
+          "title": "Portuguese Government and university scholarships",
+          "subtitle": "Scholarship example for Portugal. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "RU": {
+      "code": "RU",
+      "name": "Russia",
+      "source_url": "https://www.mid.ru/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "ru_student_visa",
+          "title": "Student Visa",
+          "subtitle": "Issued on the basis of an official invitation from the Russian educational institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mid.ru/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "ru_migration_card",
+          "title": "Migration Card",
+          "subtitle": "Complete on entry and register with the migration authority within seven working days.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.mid.ru/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "RU_scholarship_1",
+          "title": "Russian Government quota scholarships",
+          "subtitle": "Scholarship example for Russia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "SA": {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "source_url": "https://www.visa.gov.sa/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "sa_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Sponsored by the Saudi educational institution; apply through the visa platform.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.visa.gov.sa/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "sa_iqama",
+          "title": "Iqama (Residence Permit)",
+          "subtitle": "Apply within 90 days of entry through the Jawazat platform.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.visa.gov.sa/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "SA_scholarship_1",
+          "title": "Study in Saudi scholarships",
+          "subtitle": "Scholarship example for Saudi Arabia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "SG": {
+      "code": "SG",
+      "name": "Singapore",
+      "source_url": "https://www.ica.gov.sg/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "sg_student_pass",
+          "title": "Student's Pass",
+          "subtitle": "Apply through SOLAR with an acceptance letter from an approved institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.ica.gov.sg/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "SG_scholarship_1",
+          "title": "SINGA",
+          "subtitle": "Scholarship example for Singapore. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "SG_scholarship_2",
+          "title": "Singapore university scholarships",
+          "subtitle": "Scholarship example for Singapore. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "SI": {
+      "code": "SI",
+      "name": "Slovenia",
+      "source_url": "https://www.gov.si/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "si_temporary_residence",
+          "title": "Temporary Residence for Study",
+          "subtitle": "Non-EU students apply at the administrative unit after entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.gov.si/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "SI_scholarship_1",
+          "title": "Slovenian Government scholarships",
+          "subtitle": "Scholarship example for Slovenia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "TH": {
+      "code": "TH",
+      "name": "Thailand",
+      "source_url": "https://www.immigration.go.th/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "th_education_visa",
+          "title": "Non-Immigrant ED Visa",
+          "subtitle": "Obtained from Thai diplomatic missions with an admission letter from a Thai institution.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.immigration.go.th/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "th_extension",
+          "title": "Permission to Stay Extension",
+          "subtitle": "Extend your stay at the immigration bureau before your current period expires.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.immigration.go.th/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "TH_scholarship_1",
+          "title": "Thailand International Postgraduate Programme (TIPP)",
+          "subtitle": "Scholarship example for Thailand. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "TN": {
+      "code": "TN",
+      "name": "Tunisia",
+      "source_url": "https://www.diplomatie.gov.tn/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "tn_study_visa",
+          "title": "Study Visa",
+          "subtitle": "Obtained from Tunisian diplomatic missions with institutional admission documentation.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.diplomatie.gov.tn/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "tn_residence_card",
+          "title": "Residence Card",
+          "subtitle": "Apply at the central police foreigners bureau after arrival.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.diplomatie.gov.tn/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "TN_scholarship_1",
+          "title": "Tunisian Government and university scholarships",
+          "subtitle": "Scholarship example for Tunisia. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "TR": {
+      "code": "TR",
+      "name": "Türkiye (Turkey)",
+      "source_url": "https://www.evisa.gov.tr/",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "tr_student_residence",
+          "title": "Student Residence Permit",
+          "subtitle": "Apply online via e-Ikamet and at the provincial migration authority within one month of entry.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.evisa.gov.tr/",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "tr_registration",
+          "title": "University Registration",
+          "subtitle": "Complete enrolment registration; the student certificate supports the residence application.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.evisa.gov.tr/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "TR_scholarship_1",
+          "title": "Türkiye Scholarships",
+          "subtitle": "Scholarship example for Türkiye (Turkey). Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    },
+    "US": {
+      "code": "US",
+      "name": "United States",
+      "source_url": "https://travel.state.gov/content/travel/en/Visas/Study.html",
+      "last_checked": "2026-01-10",
+      "requirements": [
+        {
+          "id": "us_i20",
+          "title": "Form I-20",
+          "subtitle": "Certificate of Eligibility issued by your SEVP-certified school; required for the F-1 visa interview.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://travel.state.gov/content/travel/en/Visas/Study.html",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "us_sevis_fee",
+          "title": "SEVIS I-901 Fee Receipt",
+          "subtitle": "Pay the SEVIS fee before the visa interview; keep the receipt as proof of payment.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://www.ice.gov/sevis",
+          "last_checked": "2026-01-10"
+        },
+        {
+          "id": "us_ds160",
+          "title": "DS-160 Online Application",
+          "subtitle": "Complete the online nonimmigrant visa application and print the confirmation page.",
+          "applicability": "usually_required",
+          "category": "country",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ],
+          "source_url": "https://ceac.state.gov/genniv/",
+          "last_checked": "2026-01-10"
+        }
+      ],
+      "conditional_requirements": [],
+      "scholarships": [
+        {
+          "id": "US_scholarship_1",
+          "title": "Fulbright Foreign Student Program",
+          "subtitle": "Scholarship example for United States. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        },
+        {
+          "id": "US_scholarship_2",
+          "title": "University-funded assistantships and scholarships",
+          "subtitle": "Scholarship example for United States. Check the official call for eligibility, deadline and coverage before applying.",
+          "applicability": "if_awarded",
+          "category": "scholarship",
+          "levels": [
+            "bachelors",
+            "taught_masters",
+            "research_masters",
+            "phd"
+          ]
+        }
+      ]
+    }
+  }
+}

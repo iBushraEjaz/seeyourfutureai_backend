@@ -3,7 +3,6 @@
 *.env
 
 # Firebase service account
-*.json
 serviceAccountKey.json
 firebase-adminsdk*.json
 

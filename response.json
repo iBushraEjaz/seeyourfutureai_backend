@@ -1,0 +1,73 @@
+{
+    "groupKey":  "21-MAR_to_23-MAR",
+    "label":  "21 March ??? 23 March",
+    "scoringVersion":  "country-v2",
+    "selected":  {
+                     "code":  "US",
+                     "country":  "United States",
+                     "score":  64,
+                     "rank":  20,
+                     "tier":  "Lower match",
+                     "isTopThree":  false
+                 },
+    "showLowerMatchNotice":  true,
+    "lowerMatchNotice":  "United States scores 64% here, so it has a lower match than United Kingdom (94%), Germany (90%) and Denmark (86%). Treat it as an option to research carefully.",
+    "topThree":  [
+                     {
+                         "rank":  1,
+                         "code":  "GB",
+                         "country":  "United Kingdom",
+                         "score":  94,
+                         "headline":  "Why United Kingdom stands out (94%)",
+                         "explanation":  "United Kingdom is your highest-scoring destination, ahead of Germany and Denmark, with an Evera match score of 94% for you, not a guarantee, so compare real visa, cost and language requirements before committing."
+                     },
+                     {
+                         "rank":  2,
+                         "code":  "DE",
+                         "country":  "Germany",
+                         "score":  90,
+                         "headline":  "Strong match ??? Germany at 90%",
+                         "explanation":  "Germany is one of your three strongest matches, alongside United Kingdom (94%), with an Evera match score of 90% for you, manufacturing and structured business growth. A strong match is a starting point for research, not a guarantee, so compare real visa, cost and language requirements before committing."
+                     },
+                     {
+                         "rank":  3,
+                         "code":  "DK",
+                         "country":  "Denmark",
+                         "score":  86,
+                         "headline":  "Denmark: strong match for you",
+                         "explanation":  "Denmark ranks in your top three, with United Kingdom at 94%, with an Evera match score of 86% for you, sustainability and collaborative ventures. A strong match is a starting point for research, not a guarantee, so compare real visa, cost and language requirements before committing."
+                     }
+                 ],
+    "question1":  {
+                      "headline":  "Where United States fits for you (64%)",
+                      "explanation":  "For you, United States lands at #20 (64%), 30 points behind United Kingdom. United States is mainly associated with a large, diverse market for ambitious products and technology, but that theme sits further from the focus for you. Your strongest matches (United Kingdom, Germany, Denmark) offer a broad international network and access to established professional services and similar themes; United States offers a different emphasis. If it is your goal, plan carefully and compare it with your top three."
+                  },
+    "question2":  {
+                      "summary":  "If United States is your goal, these are the practical hurdles to plan for.",
+                      "whyLowerMatch":  "United States scores 64% for you, 30 points below United Kingdom. The profile for you is built around a broad international network and access to established professional services, and United States\u0027s strengths (a large, diverse market for ambitious products and technology) sit further from that focus, placing it #20 of 51. This reflects Evera\u0027s ranking only, not your ability to succeed there.",
+                      "hurdleSeverity":  "elevated",
+                      "hurdles":  [
+                                      {
+                                          "category":  "Immigration / visa",
+                                          "severity":  "elevated",
+                                          "text":  "Check: Work and investor routes are selective, with caps and wait times."
+                                      },
+                                      {
+                                          "category":  "Finances",
+                                          "severity":  "elevated",
+                                          "text":  "Plan for this: Healthcare and housing costs can be high. This is likely to be a bigger step than for your top matches."
+                                      },
+                                      {
+                                          "category":  "Language \u0026 credentials",
+                                          "severity":  "elevated",
+                                          "text":  "Keep in view: English proficiency is assumed, and test evidence may be asked for. Plan extra time and budget for it."
+                                      },
+                                      {
+                                          "category":  "Work / business",
+                                          "severity":  "elevated",
+                                          "text":  "Many occupations require state-level licences. Compare with Denmark to see whether the effort is worth the trade-off."
+                                      }
+                                  ],
+                      "disclaimer":  "Rules, fees and eligibility change. Check the official immigration authority for current requirements."
+                  }
+}
