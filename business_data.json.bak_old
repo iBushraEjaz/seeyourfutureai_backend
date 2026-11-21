@@ -1,0 +1,882 @@
+{
+  "date_ranges": {
+    "Aries|03-21|04-19": {
+      "all_categories": {
+        "Software & IT Services": 53,
+        "Construction": 88,
+        "Food Service": 55,
+        "Real Estate": 57,
+        "Online Content": 48,
+        "Wholesale Trade": 57,
+        "Food & Beverage Manufacturing": 55,
+        "Textile & Apparel": 63,
+        "Wood, Paper & Printing": 63,
+        "Chemicals, Metals & Machinery": 48,
+        "Utilities": 52,
+        "Horticulture & Floristry": 48,
+        "Quarrying & Extraction": 48,
+        "Retail Trade": 95,
+        "Transportation": 46,
+        "Storage & Logistics": 46,
+        "Accommodation": 64,
+        "Forestry": 50,
+        "Publishing & Writing": 55,
+        "Agriculture": 57,
+        "Mining": 51,
+        "Finance": 63,
+        "Insurance": 49,
+        "Fishing & Aquaculture": 49,
+        "Legal Services": 53,
+        "Marketing Services": 84,
+        "Design & Architecture": 48,
+        "Scientific & Technical Services": 56,
+        "Veterinary Services": 50,
+        "Administrative & Support Services": 53,
+        "Education": 63,
+        "Health & Social Work": 65,
+        "Arts & Entertainment": 64,
+        "Sports & Recreation": 98,
+        "Other Personal & Community Services": 89
+      },
+      "top5": [
+        "Sports & Recreation",
+        "Retail Trade",
+        "Other Personal & Community Services",
+        "Construction",
+        "Marketing Services"
+      ],
+      "texts_key": "Aries",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Taurus|04-20|05-20": {
+      "all_categories": {
+        "Software & IT Services": 51,
+        "Construction": 55,
+        "Food Service": 87,
+        "Real Estate": 97,
+        "Online Content": 59,
+        "Wholesale Trade": 54,
+        "Food & Beverage Manufacturing": 94,
+        "Textile & Apparel": 90,
+        "Wood, Paper & Printing": 49,
+        "Chemicals, Metals & Machinery": 61,
+        "Utilities": 54,
+        "Horticulture & Floristry": 57,
+        "Quarrying & Extraction": 56,
+        "Retail Trade": 55,
+        "Transportation": 55,
+        "Storage & Logistics": 53,
+        "Accommodation": 51,
+        "Forestry": 49,
+        "Publishing & Writing": 45,
+        "Agriculture": 95,
+        "Mining": 56,
+        "Finance": 62,
+        "Insurance": 56,
+        "Fishing & Aquaculture": 54,
+        "Legal Services": 58,
+        "Marketing Services": 53,
+        "Design & Architecture": 52,
+        "Scientific & Technical Services": 48,
+        "Veterinary Services": 48,
+        "Administrative & Support Services": 48,
+        "Education": 49,
+        "Health & Social Work": 62,
+        "Arts & Entertainment": 48,
+        "Sports & Recreation": 65,
+        "Other Personal & Community Services": 91
+      },
+      "top5": [
+        "Real Estate",
+        "Agriculture",
+        "Food & Beverage Manufacturing",
+        "Other Personal & Community Services",
+        "Textile & Apparel"
+      ],
+      "texts_key": "Taurus",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Gemini|05-21|06-20": {
+      "all_categories": {
+        "Software & IT Services": 85,
+        "Construction": 53,
+        "Food Service": 49,
+        "Real Estate": 50,
+        "Online Content": 89,
+        "Wholesale Trade": 52,
+        "Food & Beverage Manufacturing": 61,
+        "Textile & Apparel": 45,
+        "Wood, Paper & Printing": 51,
+        "Chemicals, Metals & Machinery": 59,
+        "Utilities": 47,
+        "Horticulture & Floristry": 46,
+        "Quarrying & Extraction": 56,
+        "Retail Trade": 50,
+        "Transportation": 59,
+        "Storage & Logistics": 54,
+        "Accommodation": 64,
+        "Forestry": 51,
+        "Publishing & Writing": 98,
+        "Agriculture": 49,
+        "Mining": 45,
+        "Finance": 56,
+        "Insurance": 51,
+        "Fishing & Aquaculture": 55,
+        "Legal Services": 55,
+        "Marketing Services": 87,
+        "Design & Architecture": 51,
+        "Scientific & Technical Services": 48,
+        "Veterinary Services": 63,
+        "Administrative & Support Services": 56,
+        "Education": 94,
+        "Health & Social Work": 65,
+        "Arts & Entertainment": 60,
+        "Sports & Recreation": 52,
+        "Other Personal & Community Services": 58
+      },
+      "top5": [
+        "Publishing & Writing",
+        "Education",
+        "Online Content",
+        "Marketing Services",
+        "Software & IT Services"
+      ],
+      "texts_key": "Gemini",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Cancer|06-21|07-22": {
+      "all_categories": {
+        "Software & IT Services": 63,
+        "Construction": 55,
+        "Food Service": 86,
+        "Real Estate": 95,
+        "Online Content": 45,
+        "Wholesale Trade": 45,
+        "Food & Beverage Manufacturing": 52,
+        "Textile & Apparel": 50,
+        "Wood, Paper & Printing": 52,
+        "Chemicals, Metals & Machinery": 61,
+        "Utilities": 56,
+        "Horticulture & Floristry": 59,
+        "Quarrying & Extraction": 55,
+        "Retail Trade": 45,
+        "Transportation": 59,
+        "Storage & Logistics": 54,
+        "Accommodation": 95,
+        "Forestry": 51,
+        "Publishing & Writing": 65,
+        "Agriculture": 57,
+        "Mining": 54,
+        "Finance": 52,
+        "Insurance": 55,
+        "Fishing & Aquaculture": 57,
+        "Legal Services": 59,
+        "Marketing Services": 59,
+        "Design & Architecture": 46,
+        "Scientific & Technical Services": 50,
+        "Veterinary Services": 56,
+        "Administrative & Support Services": 48,
+        "Education": 91,
+        "Health & Social Work": 89,
+        "Arts & Entertainment": 47,
+        "Sports & Recreation": 59,
+        "Other Personal & Community Services": 54
+      },
+      "top5": [
+        "Accommodation",
+        "Real Estate",
+        "Education",
+        "Health & Social Work",
+        "Food Service"
+      ],
+      "texts_key": "Cancer",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Leo|07-23|08-22": {
+      "all_categories": {
+        "Software & IT Services": 65,
+        "Construction": 47,
+        "Food Service": 52,
+        "Real Estate": 47,
+        "Online Content": 82,
+        "Wholesale Trade": 58,
+        "Food & Beverage Manufacturing": 52,
+        "Textile & Apparel": 53,
+        "Wood, Paper & Printing": 57,
+        "Chemicals, Metals & Machinery": 56,
+        "Utilities": 62,
+        "Horticulture & Floristry": 54,
+        "Quarrying & Extraction": 51,
+        "Retail Trade": 64,
+        "Transportation": 51,
+        "Storage & Logistics": 55,
+        "Accommodation": 93,
+        "Forestry": 51,
+        "Publishing & Writing": 64,
+        "Agriculture": 49,
+        "Mining": 55,
+        "Finance": 63,
+        "Insurance": 45,
+        "Fishing & Aquaculture": 47,
+        "Legal Services": 60,
+        "Marketing Services": 98,
+        "Design & Architecture": 62,
+        "Scientific & Technical Services": 51,
+        "Veterinary Services": 57,
+        "Administrative & Support Services": 52,
+        "Education": 56,
+        "Health & Social Work": 60,
+        "Arts & Entertainment": 82,
+        "Sports & Recreation": 45,
+        "Other Personal & Community Services": 98
+      },
+      "top5": [
+        "Marketing Services",
+        "Other Personal & Community Services",
+        "Accommodation",
+        "Arts & Entertainment",
+        "Online Content"
+      ],
+      "texts_key": "Leo",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Virgo|08-23|09-22": {
+      "all_categories": {
+        "Software & IT Services": 61,
+        "Construction": 45,
+        "Food Service": 47,
+        "Real Estate": 45,
+        "Online Content": 50,
+        "Wholesale Trade": 60,
+        "Food & Beverage Manufacturing": 51,
+        "Textile & Apparel": 49,
+        "Wood, Paper & Printing": 48,
+        "Chemicals, Metals & Machinery": 46,
+        "Utilities": 62,
+        "Horticulture & Floristry": 54,
+        "Quarrying & Extraction": 50,
+        "Retail Trade": 60,
+        "Transportation": 52,
+        "Storage & Logistics": 64,
+        "Accommodation": 53,
+        "Forestry": 62,
+        "Publishing & Writing": 46,
+        "Agriculture": 61,
+        "Mining": 45,
+        "Finance": 82,
+        "Insurance": 58,
+        "Fishing & Aquaculture": 54,
+        "Legal Services": 57,
+        "Marketing Services": 52,
+        "Design & Architecture": 63,
+        "Scientific & Technical Services": 89,
+        "Veterinary Services": 62,
+        "Administrative & Support Services": 91,
+        "Education": 93,
+        "Health & Social Work": 90,
+        "Arts & Entertainment": 56,
+        "Sports & Recreation": 58,
+        "Other Personal & Community Services": 65
+      },
+      "top5": [
+        "Education",
+        "Administrative & Support Services",
+        "Health & Social Work",
+        "Scientific & Technical Services",
+        "Finance"
+      ],
+      "texts_key": "Virgo",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Libra|09-23|10-22": {
+      "all_categories": {
+        "Software & IT Services": 45,
+        "Construction": 50,
+        "Food Service": 62,
+        "Real Estate": 47,
+        "Online Content": 61,
+        "Wholesale Trade": 65,
+        "Food & Beverage Manufacturing": 65,
+        "Textile & Apparel": 65,
+        "Wood, Paper & Printing": 51,
+        "Chemicals, Metals & Machinery": 53,
+        "Utilities": 61,
+        "Horticulture & Floristry": 61,
+        "Quarrying & Extraction": 55,
+        "Retail Trade": 63,
+        "Transportation": 50,
+        "Storage & Logistics": 58,
+        "Accommodation": 82,
+        "Forestry": 54,
+        "Publishing & Writing": 60,
+        "Agriculture": 47,
+        "Mining": 65,
+        "Finance": 61,
+        "Insurance": 60,
+        "Fishing & Aquaculture": 50,
+        "Legal Services": 87,
+        "Marketing Services": 60,
+        "Design & Architecture": 90,
+        "Scientific & Technical Services": 52,
+        "Veterinary Services": 58,
+        "Administrative & Support Services": 62,
+        "Education": 60,
+        "Health & Social Work": 61,
+        "Arts & Entertainment": 94,
+        "Sports & Recreation": 48,
+        "Other Personal & Community Services": 80
+      },
+      "top5": [
+        "Arts & Entertainment",
+        "Design & Architecture",
+        "Legal Services",
+        "Accommodation",
+        "Other Personal & Community Services"
+      ],
+      "texts_key": "Libra",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Scorpio|10-23|11-21": {
+      "all_categories": {
+        "Software & IT Services": 57,
+        "Construction": 51,
+        "Food Service": 48,
+        "Real Estate": 51,
+        "Online Content": 52,
+        "Wholesale Trade": 46,
+        "Food & Beverage Manufacturing": 61,
+        "Textile & Apparel": 54,
+        "Wood, Paper & Printing": 45,
+        "Chemicals, Metals & Machinery": 54,
+        "Utilities": 59,
+        "Horticulture & Floristry": 45,
+        "Quarrying & Extraction": 80,
+        "Retail Trade": 54,
+        "Transportation": 53,
+        "Storage & Logistics": 48,
+        "Accommodation": 61,
+        "Forestry": 47,
+        "Publishing & Writing": 56,
+        "Agriculture": 52,
+        "Mining": 83,
+        "Finance": 90,
+        "Insurance": 95,
+        "Fishing & Aquaculture": 53,
+        "Legal Services": 45,
+        "Marketing Services": 54,
+        "Design & Architecture": 51,
+        "Scientific & Technical Services": 85,
+        "Veterinary Services": 46,
+        "Administrative & Support Services": 48,
+        "Education": 59,
+        "Health & Social Work": 56,
+        "Arts & Entertainment": 64,
+        "Sports & Recreation": 45,
+        "Other Personal & Community Services": 57
+      },
+      "top5": [
+        "Insurance",
+        "Finance",
+        "Scientific & Technical Services",
+        "Mining",
+        "Quarrying & Extraction"
+      ],
+      "texts_key": "Scorpio",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Sagittarius|11-22|12-21": {
+      "all_categories": {
+        "Software & IT Services": 45,
+        "Construction": 48,
+        "Food Service": 60,
+        "Real Estate": 63,
+        "Online Content": 49,
+        "Wholesale Trade": 45,
+        "Food & Beverage Manufacturing": 48,
+        "Textile & Apparel": 60,
+        "Wood, Paper & Printing": 55,
+        "Chemicals, Metals & Machinery": 45,
+        "Utilities": 55,
+        "Horticulture & Floristry": 48,
+        "Quarrying & Extraction": 57,
+        "Retail Trade": 52,
+        "Transportation": 90,
+        "Storage & Logistics": 59,
+        "Accommodation": 93,
+        "Forestry": 56,
+        "Publishing & Writing": 88,
+        "Agriculture": 60,
+        "Mining": 62,
+        "Finance": 62,
+        "Insurance": 53,
+        "Fishing & Aquaculture": 62,
+        "Legal Services": 56,
+        "Marketing Services": 54,
+        "Design & Architecture": 49,
+        "Scientific & Technical Services": 60,
+        "Veterinary Services": 56,
+        "Administrative & Support Services": 63,
+        "Education": 93,
+        "Health & Social Work": 48,
+        "Arts & Entertainment": 96,
+        "Sports & Recreation": 58,
+        "Other Personal & Community Services": 57
+      },
+      "top5": [
+        "Arts & Entertainment",
+        "Accommodation",
+        "Education",
+        "Transportation",
+        "Publishing & Writing"
+      ],
+      "texts_key": "Sagittarius",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Capricorn|12-22|01-19": {
+      "all_categories": {
+        "Software & IT Services": 46,
+        "Construction": 97,
+        "Food Service": 57,
+        "Real Estate": 64,
+        "Online Content": 57,
+        "Wholesale Trade": 65,
+        "Food & Beverage Manufacturing": 49,
+        "Textile & Apparel": 45,
+        "Wood, Paper & Printing": 54,
+        "Chemicals, Metals & Machinery": 86,
+        "Utilities": 47,
+        "Horticulture & Floristry": 49,
+        "Quarrying & Extraction": 60,
+        "Retail Trade": 48,
+        "Transportation": 55,
+        "Storage & Logistics": 57,
+        "Accommodation": 51,
+        "Forestry": 62,
+        "Publishing & Writing": 53,
+        "Agriculture": 47,
+        "Mining": 98,
+        "Finance": 93,
+        "Insurance": 87,
+        "Fishing & Aquaculture": 52,
+        "Legal Services": 47,
+        "Marketing Services": 58,
+        "Design & Architecture": 45,
+        "Scientific & Technical Services": 61,
+        "Veterinary Services": 50,
+        "Administrative & Support Services": 50,
+        "Education": 57,
+        "Health & Social Work": 63,
+        "Arts & Entertainment": 46,
+        "Sports & Recreation": 48,
+        "Other Personal & Community Services": 46
+      },
+      "top5": [
+        "Mining",
+        "Construction",
+        "Finance",
+        "Insurance",
+        "Chemicals, Metals & Machinery"
+      ],
+      "texts_key": "Capricorn",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Aquarius|01-20|02-18": {
+      "all_categories": {
+        "Software & IT Services": 85,
+        "Construction": 47,
+        "Food Service": 61,
+        "Real Estate": 63,
+        "Online Content": 88,
+        "Wholesale Trade": 56,
+        "Food & Beverage Manufacturing": 52,
+        "Textile & Apparel": 52,
+        "Wood, Paper & Printing": 53,
+        "Chemicals, Metals & Machinery": 59,
+        "Utilities": 89,
+        "Horticulture & Floristry": 62,
+        "Quarrying & Extraction": 56,
+        "Retail Trade": 98,
+        "Transportation": 51,
+        "Storage & Logistics": 58,
+        "Accommodation": 48,
+        "Forestry": 62,
+        "Publishing & Writing": 62,
+        "Agriculture": 52,
+        "Mining": 60,
+        "Finance": 55,
+        "Insurance": 61,
+        "Fishing & Aquaculture": 59,
+        "Legal Services": 63,
+        "Marketing Services": 57,
+        "Design & Architecture": 63,
+        "Scientific & Technical Services": 95,
+        "Veterinary Services": 57,
+        "Administrative & Support Services": 48,
+        "Education": 45,
+        "Health & Social Work": 61,
+        "Arts & Entertainment": 45,
+        "Sports & Recreation": 55,
+        "Other Personal & Community Services": 53
+      },
+      "top5": [
+        "Retail Trade",
+        "Scientific & Technical Services",
+        "Utilities",
+        "Online Content",
+        "Software & IT Services"
+      ],
+      "texts_key": "Aquarius",
+      "notes": {
+        "bands": "High"
+      }
+    },
+    "Pisces|02-19|03-20": {
+      "all_categories": {
+        "Software & IT Services": 59,
+        "Construction": 53,
+        "Food Service": 53,
+        "Real Estate": 62,
+        "Online Content": 60,
+        "Wholesale Trade": 52,
+        "Food & Beverage Manufacturing": 50,
+        "Textile & Apparel": 46,
+        "Wood, Paper & Printing": 60,
+        "Chemicals, Metals & Machinery": 46,
+        "Utilities": 56,
+        "Horticulture & Floristry": 45,
+        "Quarrying & Extraction": 46,
+        "Retail Trade": 53,
+        "Transportation": 56,
+        "Storage & Logistics": 53,
+        "Accommodation": 97,
+        "Forestry": 56,
+        "Publishing & Writing": 51,
+        "Agriculture": 59,
+        "Mining": 52,
+        "Finance": 54,
+        "Insurance": 55,
+        "Fishing & Aquaculture": 59,
+        "Legal Services": 57,
+        "Marketing Services": 46,
+        "Design & Architecture": 52,
+        "Scientific & Technical Services": 58,
+        "Veterinary Services": 89,
+        "Administrative & Support Services": 49,
+        "Education": 45,
+        "Health & Social Work": 98,
+        "Arts & Entertainment": 87,
+        "Sports & Recreation": 59,
+        "Other Personal & Community Services": 95
+      },
+      "top5": [
+        "Health & Social Work",
+        "Accommodation",
+        "Other Personal & Community Services",
+        "Veterinary Services",
+        "Arts & Entertainment"
+      ],
+      "texts_key": "Pisces",
+      "notes": {
+        "bands": "High"
+      }
+    }
+  },
+  "texts": {
+    "Aries": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Taurus": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Gemini": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Cancer": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Leo": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Virgo": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Libra": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Scorpio": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Sagittarius": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Capricorn": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Aquarius": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    },
+    "Pisces": {
+      "High": [
+        "As {sign}, your natural traits align strongly with {category} and give you a confident head start.",
+        "Your sign shows real leadership drive, which helps you make clear decisions in this field.",
+        "The practical strengths of {sign} support steady growth and resilience in {category}.",
+        "You tend to spot opportunities quickly and act with the boldness this business rewards.",
+        "With consistent effort and smart planning, {category} can become a truly rewarding path for you."
+      ],
+      "Mid": [
+        "As {sign}, you hold a moderate natural affinity for {category} that you can build on.",
+        "Your sign brings useful qualities, though success here will depend on developing a few key skills.",
+        "There are solid opportunities in {category} if you prepare carefully and start with a clear plan.",
+        "Challenges may appear early, but your {sign} persistence can carry you through them.",
+        "Gaining experience and the right partners will help {category} work well for someone like you."
+      ],
+      "Low": [
+        "As {sign}, your traditional alignment with {category} is weaker, so it asks for extra effort.",
+        "This path is still possible, but it will reward careful research and patient preparation.",
+        "Consider partnering with people whose strengths balance your {sign} nature in this area.",
+        "You may face steeper competition here, so a clear niche and a lean start will help.",
+        "Exploring related categories that suit {sign} more naturally could also be a wise move."
+      ]
+    }
+  }
+}

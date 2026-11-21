@@ -4,6 +4,7 @@ import secrets
 import smtplib
 import time
 import traceback
+import re
 from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
@@ -149,19 +150,97 @@ ZODIAC_DATES: Dict[str, str] = {
     "Pisces": "February 19 – March 20",
 }
 
-ZODIAC_BUSINESSES: Dict[str, List[str]] = {
-    "Aries": ["Fitness", "Sports", "Restaurants", "Construction"],
-    "Taurus": ["Real estate", "Food", "Jewelry", "Agriculture"],
-    "Gemini": ["Marketing", "Content", "Teaching", "Travel"],
-    "Cancer": ["Catering", "Childcare", "Hospitality", "Home décor"],
-    "Leo": ["Fashion", "Entertainment", "Events", "Media"],
-    "Virgo": ["Accounting", "Healthcare", "Editing", "Consulting"],
-    "Libra": ["Fashion and boutique", "Wedding and event planning", "Beauty and salon", "Interior design"],
-    "Scorpio": ["Finance", "Psychology", "Investigation", "Research"],
-    "Sagittarius": ["Travel", "Import-export", "Publishing", "Education"],
-    "Capricorn": ["Manufacturing", "Banking", "Construction", "Consulting"],
-    "Aquarius": ["Tech", "E-commerce", "Green energy", "Innovation"],
-    "Pisces": ["Photography", "Art", "Wellness", "Music"],
+# ------------------------------------------------------------
+# BROAD BUSINESS CATEGORIES (keyword-based detection)
+# ------------------------------------------------------------
+BUSINESS_CATEGORIES: Dict[str, List[str]] = {
+    "real_estate":    ["property", "real estate", "realty", "land", "housing",
+                       "rental", "rent", "broker", "dealing", "plot", "apartment"],
+    "arts":           ["painting", "art", "drawing", "illustration", "sculpture",
+                       "craft", "sketch", "portrait", "canvas", "design"],
+    "fitness":        ["gym", "fitness", "training", "trainer", "sports",
+                       "coaching", "yoga", "athletic", "workout"],
+    "food":           ["restaurant", "cafe", "catering", "food", "bakery",
+                       "kitchen", "chef", "cook", "snack", "juice"],
+    "construction":   ["construction", "builder", "building", "contractor",
+                       "architecture", "civil", "renovation", "plumbing", "electric"],
+    "technology":     ["tech", "software", "app", "web", "developer", "programming",
+                       "it ", "saas", "ai", "data", "cyber", "startup"],
+    "ecommerce":      ["ecommerce", "e-commerce", "online store", "shop", "dropship",
+                       "retail", "store", "marketplace", "selling online"],
+    "finance":        ["finance", "bank", "investment", "trading", "stocks",
+                       "accounting", "audit", "tax", "insurance", "loan"],
+    "healthcare":     ["health", "clinic", "medical", "doctor", "nurse", "pharmacy",
+                       "therapy", "dental", "care", "wellness"],
+    "education":      ["teaching", "tutor", "school", "education", "course",
+                       "training center", "coaching class", "academy"],
+    "marketing":      ["marketing", "advertising", "seo", "social media", "branding",
+                       "content", "copywriting", "pr ", "influencer"],
+    "media":          ["media", "video", "film", "photography", "youtube", "podcast",
+                       "music", "editing", "animation", "streaming"],
+    "travel":         ["travel", "tourism", "tour", "trip", "hotel", "hospitality",
+                       "airbnb", "booking", "guide"],
+       "fashion":        ["fashion", "clothing", "boutique", "tailor", "apparel",
+                       "jewelry", "jewellery", "accessories", "beauty", "salon", "makeup", 
+                       "parlour", "parlor"],
+    "agriculture":    ["agriculture", "farm", "crop", "livestock", "dairy",
+                       "poultry", "garden", "organic", "nursery"],
+    "logistics":      ["logistics", "transport", "delivery", "courier", "shipping",
+                       "warehouse", "supply chain", "trucking", "freight"],
+    "consulting":     ["consulting", "consultant", "advisor", "strategy", "management",
+                       "coaching business", "freelance consultant"],
+    "events":         ["event", "wedding", "party", "planner", "decoration",
+                       "catering event", "conference"],
+    "publishing":     ["publishing", "book", "writing", "author", "blog",
+                       "magazine", "newsletter", "print"],
+    "manufacturing":  ["manufacturing", "factory", "production", "industrial",
+                       "assembly", "fabrication", "workshop"],
+    "energy":         ["energy", "solar", "green", "renewable", "environment",
+                       "sustainability", "recycling"],
+    "research":       ["research", "investigation", "analysis", "laboratory",
+                       "science", "psychology", "survey"],
+}
+
+# ------------------------------------------------------------
+# ZODIAC AFFINITY SCORES (0–10 per category)
+# ------------------------------------------------------------
+ZODIAC_AFFINITY: Dict[str, Dict[str, int]] = {
+    "Aries":       {"fitness": 9, "sports": 9, "construction": 8, "food": 6,
+                    "real_estate": 5, "events": 7, "logistics": 6, "arts": 5,
+                    "technology": 4, "marketing": 5, "media": 5, "finance": 4},
+    "Taurus":      {"real_estate": 9, "food": 9, "agriculture": 8, "fashion": 7,
+                    "arts": 7, "finance": 6, "manufacturing": 6, "healthcare": 5,
+                    "events": 5, "technology": 3, "travel": 5, "media": 4},
+    "Gemini":      {"marketing": 9, "media": 8, "education": 8, "publishing": 7,
+                    "travel": 7, "technology": 6, "ecommerce": 6, "events": 6,
+                    "arts": 5, "finance": 4, "construction": 3, "food": 4},
+    "Cancer":      {"food": 9, "healthcare": 8, "events": 7, "real_estate": 7,
+                    "arts": 6, "education": 6, "fashion": 5, "travel": 5,
+                    "technology": 3, "finance": 4, "logistics": 4, "media": 5},
+    "Leo":         {"media": 9, "events": 9, "fashion": 8, "arts": 8,
+                    "marketing": 7, "education": 6, "travel": 6, "food": 6,
+                    "real_estate": 5, "technology": 4, "finance": 4, "healthcare": 4},
+    "Virgo":       {"healthcare": 9, "consulting": 8, "finance": 8, "education": 7,
+                    "research": 7, "technology": 6, "agriculture": 6, "publishing": 6,
+                    "food": 5, "arts": 4, "media": 4, "events": 4},
+    "Libra":       {"fashion": 9, "events": 9, "arts": 8, "real_estate": 7,
+                    "media": 7, "marketing": 6, "healthcare": 5, "education": 5,
+                    "technology": 4, "finance": 5, "food": 5, "travel": 6},
+    "Scorpio":     {"finance": 9, "research": 8, "healthcare": 7, "technology": 7,
+                    "real_estate": 6, "consulting": 6, "media": 6, "arts": 5,
+                    "events": 4, "food": 4, "fashion": 5, "marketing": 5},
+    "Sagittarius": {"travel": 9, "education": 8, "publishing": 8, "media": 7,
+                    "logistics": 7, "events": 6, "marketing": 6, "technology": 5,
+                    "real_estate": 5, "arts": 5, "finance": 4, "food": 5},
+    "Capricorn":   {"manufacturing": 9, "finance": 9, "construction": 8, "consulting": 8,
+                    "real_estate": 7, "logistics": 7, "technology": 6, "healthcare": 5,
+                    "education": 5, "media": 4, "arts": 4, "food": 4},
+    "Aquarius":    {"technology": 9, "ecommerce": 8, "energy": 8, "research": 7,
+                    "media": 7, "marketing": 6, "education": 6, "finance": 5,
+                    "arts": 5, "events": 5, "healthcare": 5, "construction": 4},
+    "Pisces":      {"arts": 9, "media": 9, "healthcare": 7, "travel": 7,
+                    "events": 6, "education": 6, "food": 6, "fashion": 6,
+                    "technology": 4, "finance": 3, "construction": 3, "logistics": 4},
 }
 
 MONTH_NUMBERS: Dict[str, int] = {
@@ -200,17 +279,57 @@ def get_zodiac_sign(dob: str) -> Optional[str]:
         return None
 
 
-class BusinessMatchRequest(BaseModel):
-    name: str
-    dob: str
-    business: str
+# ------------------------------------------------------------
+# CATEGORY DETECTION + SCORING HELPERS
+# ------------------------------------------------------------
+def detect_category(business: str) -> Optional[str]:
+    """Return the best-matching category for a free-text business description."""
+    if not business:
+        return None
+    b = " " + business.strip().lower() + " "
+    b = re.sub(r"\s+", " ", b)
+    best_cat, best_hits = None, 0
+    for cat, keywords in BUSINESS_CATEGORIES.items():
+        hits = sum(1 for kw in keywords if kw in b)
+        if hits > best_hits:
+            best_cat, best_hits = cat, hits
+    return best_cat  # None if nothing matched
 
 
-class BusinessMatchResponse(BaseModel):
-    zodiac_sign: str
-    business: str
-    compatibility: int
-    best_options: List[str]
+def _score_for(sign: str, category: Optional[str]) -> int:
+    """0–100 compatibility score based on the sign's affinity table."""
+    if category is None:
+        return 40  # unknown category → neutral-ish
+    affinity = ZODIAC_AFFINITY.get(sign, {})
+    raw = affinity.get(category)
+    if raw is None:
+        return 45  # category not scored for this sign → mild neutral
+    # affinity is 0–10 → map to 30–100 so nothing is absurdly low
+    return int(round(30 + (raw / 10) * 70))
+
+
+def _top_options(sign: str, n: int = 5) -> List[str]:
+    """The sign's strongest categories, highest first."""
+    affinity = ZODIAC_AFFINITY.get(sign, {})
+    ranked = sorted(affinity.items(), key=lambda kv: kv[1], reverse=True)
+    return [cat.replace("_", " ") for cat, _ in ranked[:n]]
+
+
+def _sign_note(sign: str, category: Optional[str], score: int) -> str:
+    if category is None:
+        return ("We couldn't map that business to a known category. "
+                "Try a more specific description (e.g. 'property dealing', "
+                "'painting', 'online clothing store').")
+    cat_label = category.replace("_", " ")
+    if score >= 80:
+        strength = "a strong traditional fit"
+    elif score >= 60:
+        strength = "a moderate fit"
+    else:
+        strength = "a weaker traditional fit — not a bad choice, just less aligned"
+    return (f"For {sign}, {cat_label} is {strength} according to the zodiac "
+            f"affinity table. Real-world fit still depends on your skills, "
+            f"capital, and market demand.")
 
 
 @app.get("/")
@@ -226,29 +345,38 @@ def get_zodiacs():
 @app.get("/zodiac/{sign}")
 def get_zodiac_businesses(sign: str):
     sign = sign.strip().title()
-    if sign not in ZODIAC_BUSINESSES:
+    if sign not in ZODIAC_AFFINITY:
         raise HTTPException(status_code=404, detail=f"Unknown zodiac sign '{sign}'")
-    return {"sign": sign, "dates": ZODIAC_DATES[sign], "businesses": ZODIAC_BUSINESSES[sign]}
+    return {
+        "sign": sign,
+        "dates": ZODIAC_DATES[sign],
+        "top_businesses": _top_options(sign),
+    }
 
 
-@app.post("/match-business", response_model=BusinessMatchResponse)
-def match_business(req: BusinessMatchRequest):
-    sign = get_zodiac_sign(req.dob)
-    if sign is None:
-        raise HTTPException(status_code=400, detail="Invalid date of birth format. Use DD-MM-YYYY or YYYY-MM-DD")
-    businesses = ZODIAC_BUSINESSES.get(sign, [])
-    business_lower = req.business.strip().lower()
-    matched = any(b.lower() == business_lower or business_lower in b.lower() for b in businesses)
-    if matched:
-        compat = 80 + (hash(req.business + sign) % 21)
-    else:
-        compat = 10 + (hash(req.business + sign) % 41)
-    return BusinessMatchResponse(
-        zodiac_sign=sign,
-        business=req.business,
-        compatibility=compat,
-        best_options=businesses,
-    )
+@app.get("/categories")
+def list_categories():
+    return {
+        "categories": [
+            {"name": cat, "keywords": kws}
+            for cat, kws in BUSINESS_CATEGORIES.items()
+        ]
+    }
+
+
+@app.get("/zodiac/{sign}/affinity")
+def zodiac_affinity(sign: str):
+    sign = sign.strip().title()
+    if sign not in ZODIAC_AFFINITY:
+        raise HTTPException(status_code=404, detail=f"Unknown zodiac sign '{sign}'")
+    ranked = sorted(ZODIAC_AFFINITY[sign].items(), key=lambda kv: kv[1], reverse=True)
+    return {
+        "sign": sign,
+        "dates": ZODIAC_DATES[sign],
+        "ranked_categories": [
+            {"category": c.replace("_", " "), "affinity": v} for c, v in ranked
+        ],
+    }
 
 
 @app.get("/health")
@@ -519,3 +647,17 @@ def forgot_reset(req: ForgotResetRequest):
         return JSONResponse(status_code=500, content={"message": f"Password reset failed: {exc}"})
     RESET_TOKENS.pop(req.reset_token, None)
     return {"message": "Password updated"}
+
+
+# ------------------------------------------------------------
+# Business compatibility + growth plan routers
+# ------------------------------------------------------------
+from business_result import router as business_result_router
+from business_plan_growth import router as business_plan_growth_router
+from country_match import router as country_match_router
+from visa_endpoints import router as visa_router
+
+app.include_router(business_result_router)
+app.include_router(business_plan_growth_router)
+app.include_router(country_match_router)
+app.include_router(visa_router)

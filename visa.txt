@@ -1,0 +1,870 @@
+International Student Visa Requirements
+48 destinations • Four study levels • Optional scholarship guidance
+Global edition · 20 November 2026
+Who this guide is for
+International applicants of any nationality planning undergraduate, taught master’s, research master’s or PhD
+study. Nationality is not assumed. Requirements that depend on nationality, residence, age, course or
+applicant category are labelled as conditional.
+How to use this guide
+Your app’s existing core checklist should remain separate. This guide focuses on destination-specific items
+and optional scholarship extras. Do not show a scholarship checklist as mandatory to applicants who are
+self-funded.
+Important: Visa rules and scholarship calls change. This is a structured planning baseline, not a fully verified
+live legal checklist for every consulate. Confirm the latest checklist with the destination government, embassy
+or consulate, and the university before publishing or applying.
+Core checklist: keep separate in the app
+The uploaded visa screen already contains shared academic and application items. Keep those in the core
+layer rather than repeating them for every destination. Typical shared items include passport, academic
+certificates and transcripts, admission evidence, CV, statement of purpose, language evidence,
+recommendation letters and financial evidence. The exact core list should follow the applicant level and your
+existing screen implementation.
+Important funding rule
+A scholarship award does not automatically remove the immigration financial requirement. It may satisfy all or
+part of it only when the award is recognised by the destination authority and clearly states the amount,
+duration and covered costs. If the award is partial, the applicant may need evidence for the remaining amount.
+Conditional documents
+Examples include APS for certain qualification origins, UK ATAS for specified courses and nationalities, UK
+TB screening based on residence history, and attestation letters required only for certain Canadian study
+permit categories. These must be triggered by eligibility logic, not displayed as universal requirements.
+Country-by-country reference
+Country-specific entries below are planning prompts. Where a destination has a named document or process, it is listed. Other
+destinations require the applicant to follow the national student visa or residence permit checklist for their case; do not infer that every
+possible document is required.
+1. Albania (AL)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Government or university merit scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+2. Austria (AT)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: OeAD scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+3. Australia (AU)
+Bachelor’s: Confirmation of Enrolment (CoE) (conditional): Your registered education provider issues a CoE after you accept the offer
+and meet enrolment conditions. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Confirmation of Enrolment (CoE) (conditional): Your registered education provider issues a CoE after you accept the
+offer and meet enrolment conditions. Degree Recognition (conditional): Provide degree recognition or attestation only where the
+destination or institution requires it.
+Research Master’s: Confirmation of Enrolment (CoE) (conditional): Your registered education provider issues a CoE after you accept
+the offer and meet enrolment conditions. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host
+confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Confirmation of Enrolment (CoE) (conditional): Your registered education provider issues a CoE after you accept the offer and
+meet enrolment conditions. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation
+when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description
+required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation
+if it funds your stay.
+Optional scholarship examples: Australia Awards Scholarships, Research Training Program (RTP).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+4. Belgium (BE)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: ARES scholarships, VLIR-UOS scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+5. Bulgaria (BG)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Bulgarian Government scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+6. Canada (CA)
+Bachelor’s: Provincial Attestation Letter (conditional): Some study permit applicants need a provincial or territorial attestation letter;
+exemptions apply. Letter of Acceptance (usually required): Include the designated learning institution acceptance letter. Guardian
+Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Provincial Attestation Letter (conditional): Some study permit applicants need a provincial or territorial attestation
+letter; exemptions apply. Letter of Acceptance (usually required): Include the designated learning institution acceptance letter. Degree
+Recognition (conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: Provincial Attestation Letter (conditional): Some study permit applicants need a provincial or territorial attestation
+letter; exemptions apply. Letter of Acceptance (usually required): Include the designated learning institution acceptance letter.
+Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires
+one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+PhD: Provincial Attestation Letter (conditional): Some study permit applicants need a provincial or territorial attestation letter;
+exemptions apply. Letter of Acceptance (usually required): Include the designated learning institution acceptance letter. Supervisor
+Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires one.
+Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Vanier Canada Graduate Scholarships (doctoral; check current programme status), University
+graduate funding.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+7. Switzerland (CH)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Swiss Government Excellence Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+8. China (CN)
+Bachelor’s: JW201 or JW202 (conditional): The institution or relevant authority issues the study visa form for the applicable study
+category. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: JW201 or JW202 (conditional): The institution or relevant authority issues the study visa form for the applicable study
+category. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: JW201 or JW202 (conditional): The institution or relevant authority issues the study visa form for the applicable
+study category. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: JW201 or JW202 (conditional): The institution or relevant authority issues the study visa form for the applicable study category.
+Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires
+one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Chinese Government Scholarship (CSC).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+9. Cyprus (CY)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Cyprus Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+10. Czechia (CZ)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Czech Government Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+11. Germany (DE)
+Bachelor’s: Blocked Account (conditional): A blocked account may be used to demonstrate living-cost funds when required. APS
+Certificate (nationality dependent): Required for certain qualifications and countries of education, not for every nationality. Guardian
+Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Blocked Account (conditional): A blocked account may be used to demonstrate living-cost funds when required. APS
+Certificate (nationality dependent): Required for certain qualifications and countries of education, not for every nationality. Degree
+Recognition (conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: Blocked Account (conditional): A blocked account may be used to demonstrate living-cost funds when required.
+APS Certificate (nationality dependent): Required for certain qualifications and countries of education, not for every nationality.
+Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires
+one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+PhD: Blocked Account (conditional): A blocked account may be used to demonstrate living-cost funds when required. APS Certificate
+(nationality dependent): Required for certain qualifications and countries of education, not for every nationality. Supervisor Confirmation
+(programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires one. Research Proposal
+(programme dependent): Submit the research plan or project description required by the institution. Funding Confirmation (if funded):
+Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: DAAD scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+12. Denmark (DK)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Danish Government Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+13. Egypt (EG)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Egyptian Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+14. Spain (ES)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Spanish Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+15. Finland (FI)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Finland Scholarship (where offered), University tuition waivers.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+16. France (FR)
+Bachelor’s: Campus France Proof (conditional): Applicants in countries using the Études en France procedure may need its
+confirmation or file number. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Campus France Proof (conditional): Applicants in countries using the Études en France procedure may need its
+confirmation or file number. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or
+institution requires it.
+Research Master’s: Campus France Proof (conditional): Applicants in countries using the Études en France procedure may need its
+confirmation or file number. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation
+when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description
+required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation
+if it funds your stay.
+PhD: Campus France Proof (conditional): Applicants in countries using the Études en France procedure may need its confirmation or file
+number. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Eiffel Excellence Scholarship.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+17. United Kingdom (GB)
+Bachelor’s: CAS Reference (usually required): Your licensed student sponsor issues the Confirmation of Acceptance for Studies before
+the Student route application. ATAS Certificate (nationality and course dependent): Required only for specified sensitive subjects and
+nationalities. TB Test Certificate (residence dependent): Required only for applicants resident in a listed country and meeting the rule
+conditions. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: CAS Reference (usually required): Your licensed student sponsor issues the Confirmation of Acceptance for Studies
+before the Student route application. ATAS Certificate (nationality and course dependent): Required only for specified sensitive subjects
+and nationalities. TB Test Certificate (residence dependent): Required only for applicants resident in a listed country and meeting the
+rule conditions. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: CAS Reference (usually required): Your licensed student sponsor issues the Confirmation of Acceptance for Studies
+before the Student route application. ATAS Certificate (nationality and course dependent): Required only for specified sensitive subjects
+and nationalities. TB Test Certificate (residence dependent): Required only for applicants resident in a listed country and meeting the
+rule conditions. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: CAS Reference (usually required): Your licensed student sponsor issues the Confirmation of Acceptance for Studies before the
+Student route application. ATAS Certificate (nationality and course dependent): Required only for specified sensitive subjects and
+nationalities. TB Test Certificate (residence dependent): Required only for applicants resident in a listed country and meeting the rule
+conditions. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+Optional scholarship examples: Chevening Scholarships, Commonwealth Scholarships, GREAT Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+18. Georgia (GE)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Georgian Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+19. Greece (GR)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Greek Government (IKY) scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+20. Croatia (HR)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Croatian Government Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+21. Hungary (HU)
+Bachelor’s: Residence Permit File (usually required): Apply for the residence permit for study and provide the supporting documents
+requested by the consulate. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Residence Permit File (usually required): Apply for the residence permit for study and provide the supporting
+documents requested by the consulate. Degree Recognition (conditional): Provide degree recognition or attestation only where the
+destination or institution requires it.
+Research Master’s: Residence Permit File (usually required): Apply for the residence permit for study and provide the supporting
+documents requested by the consulate. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host
+confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Residence Permit File (usually required): Apply for the residence permit for study and provide the supporting documents requested
+by the consulate. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+Optional scholarship examples: Stipendium Hungaricum.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+22. Indonesia (ID)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Indonesia Endowment Fund for Education (LPDP), Darmasiswa (selected study types).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+23. Ireland (IE)
+Bachelor’s: Long Stay Study Visa (visa nationality dependent): Applicants who require an entry visa apply for the long stay study visa
+and provide the required evidence. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Long Stay Study Visa (visa nationality dependent): Applicants who require an entry visa apply for the long stay study
+visa and provide the required evidence. Degree Recognition (conditional): Provide degree recognition or attestation only where the
+destination or institution requires it.
+Research Master’s: Long Stay Study Visa (visa nationality dependent): Applicants who require an entry visa apply for the long stay
+study visa and provide the required evidence. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or
+host confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Long Stay Study Visa (visa nationality dependent): Applicants who require an entry visa apply for the long stay study visa and
+provide the required evidence. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation
+when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description
+required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation
+if it funds your stay.
+Optional scholarship examples: Government of Ireland International Education Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+24. India (IN)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Indian Council for Cultural Relations (ICCR) scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+25. Iraq (IQ)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+26. Iran (IR)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+27. Italy (IT)
+Bachelor’s: Universitaly Pre Enrolment (usually required): Complete the required pre-enrolment procedure through the official
+Universitaly portal where applicable. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Universitaly Pre Enrolment (usually required): Complete the required pre-enrolment procedure through the official
+Universitaly portal where applicable. Degree Recognition (conditional): Provide degree recognition or attestation only where the
+destination or institution requires it.
+Research Master’s: Universitaly Pre Enrolment (usually required): Complete the required pre-enrolment procedure through the official
+Universitaly portal where applicable. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host
+confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Universitaly Pre Enrolment (usually required): Complete the required pre-enrolment procedure through the official Universitaly
+portal where applicable. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+Optional scholarship examples: Italian Government (MAECI) scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+28. Japan (JP)
+Bachelor’s: Certificate of Eligibility (usually required): The school or sponsor generally applies for a Certificate of Eligibility before the
+visa application. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Certificate of Eligibility (usually required): The school or sponsor generally applies for a Certificate of Eligibility before
+the visa application. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Certificate of Eligibility (usually required): The school or sponsor generally applies for a Certificate of Eligibility
+before the visa application. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation
+when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description
+required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation
+if it funds your stay.
+PhD: Certificate of Eligibility (usually required): The school or sponsor generally applies for a Certificate of Eligibility before the visa
+application. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+Optional scholarship examples: MEXT Scholarship.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+29. South Korea (KR)
+Bachelor’s: Admission Certificate (usually required): Use the admission and visa documents issued by the Korean institution for the
+relevant D-2 study category. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Admission Certificate (usually required): Use the admission and visa documents issued by the Korean institution for
+the relevant D-2 study category. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination
+or institution requires it.
+Research Master’s: Admission Certificate (usually required): Use the admission and visa documents issued by the Korean institution
+for the relevant D-2 study category. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host
+confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Admission Certificate (usually required): Use the admission and visa documents issued by the Korean institution for the relevant
+D-2 study category. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+Optional scholarship examples: Global Korea Scholarship (GKS).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+30. Lithuania (LT)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Lithuanian State Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+31. Morocco (MA)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Moroccan Government and AMCI scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+32. Mexico (MX)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Mexican Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+33. Malaysia (MY)
+Bachelor’s: EMGS Approval (usually required): International student pass processing is normally coordinated through the institution and
+EMGS. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: EMGS Approval (usually required): International student pass processing is normally coordinated through the
+institution and EMGS. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or
+institution requires it.
+Research Master’s: EMGS Approval (usually required): International student pass processing is normally coordinated through the
+institution and EMGS. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+PhD: EMGS Approval (usually required): International student pass processing is normally coordinated through the institution and
+EMGS. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Malaysia International Scholarship (MIS), MTCP Scholarship.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+34. Netherlands (NL)
+Bachelor’s: Residence Permit MVV (conditional): The recognised sponsor usually applies for the residence permit and, where needed,
+the MVV entry visa. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian
+details.
+Taught Master’s: Residence Permit MVV (conditional): The recognised sponsor usually applies for the residence permit and, where
+needed, the MVV entry visa. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or
+institution requires it.
+Research Master’s: Residence Permit MVV (conditional): The recognised sponsor usually applies for the residence permit and, where
+needed, the MVV entry visa. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation
+when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description
+required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation
+if it funds your stay.
+PhD: Residence Permit MVV (conditional): The recognised sponsor usually applies for the residence permit and, where needed, the
+MVV entry visa. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+Optional scholarship examples: NL Scholarship, Orange Knowledge Programme (check current availability).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+35. Norway (NO)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: University and research-funded positions.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+36. New Zealand (NZ)
+Bachelor’s: Offer of Place (usually required): Provide the offer from an eligible education provider for the student visa application.
+Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Offer of Place (usually required): Provide the offer from an eligible education provider for the student visa application.
+Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: Offer of Place (usually required): Provide the offer from an eligible education provider for the student visa
+application. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Offer of Place (usually required): Provide the offer from an eligible education provider for the student visa application. Supervisor
+Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires one.
+Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Manaaki New Zealand Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+37. Pakistan (PK)
+Bachelor’s: Student Visa / Entry Permission (nationality dependent): International students should follow the visa or entry permission
+route stated by the admitting Pakistani institution and government portal. Guardian Consent (age dependent): Applicants under the legal
+age may need parental consent and guardian details.
+Taught Master’s: Student Visa / Entry Permission (nationality dependent): International students should follow the visa or entry
+permission route stated by the admitting Pakistani institution and government portal. Degree Recognition (conditional): Provide degree
+recognition or attestation only where the destination or institution requires it.
+Research Master’s: Student Visa / Entry Permission (nationality dependent): International students should follow the visa or entry
+permission route stated by the admitting Pakistani institution and government portal. Supervisor Confirmation (programme dependent):
+Provide a supervisor acceptance or host confirmation when the programme requires one. Research Proposal (programme dependent):
+Submit the research plan or project description required by the institution. Funding Confirmation (if funded): Provide the scholarship,
+assistantship, employment or stipend confirmation if it funds your stay.
+PhD: Student Visa / Entry Permission (nationality dependent): International students should follow the visa or entry permission route
+stated by the admitting Pakistani institution and government portal. Supervisor Confirmation (programme dependent): Provide a
+supervisor acceptance or host confirmation when the programme requires one. Research Proposal (programme dependent): Submit the
+research plan or project description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship,
+employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: HEC and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+38. Poland (PL)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Poland My First Choice / NAWA programmes.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+39. Portugal (PT)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Portuguese Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+40. Russia (RU)
+Bachelor’s: Study Invitation (usually required): The authorised institution or relevant authority arranges the invitation used for the
+student visa process. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian
+details.
+Taught Master’s: Study Invitation (usually required): The authorised institution or relevant authority arranges the invitation used for the
+student visa process. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Study Invitation (usually required): The authorised institution or relevant authority arranges the invitation used for
+the student visa process. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+PhD: Study Invitation (usually required): The authorised institution or relevant authority arranges the invitation used for the student visa
+process. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Russian Government quota scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+41. Saudi Arabia (SA)
+Bachelor’s: Study Visa Route (conditional): Use the admission and visa process stated by the Saudi institution and official Study in
+Saudi platform. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Study Visa Route (conditional): Use the admission and visa process stated by the Saudi institution and official Study in
+Saudi platform. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Study Visa Route (conditional): Use the admission and visa process stated by the Saudi institution and official
+Study in Saudi platform. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+PhD: Study Visa Route (conditional): Use the admission and visa process stated by the Saudi institution and official Study in Saudi
+platform. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Study in Saudi scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+42. Singapore (SG)
+Bachelor’s: Student's Pass (usually required): Apply for a Student's Pass through the institution and ICA process where required.
+Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Student's Pass (usually required): Apply for a Student's Pass through the institution and ICA process where required.
+Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: Student's Pass (usually required): Apply for a Student's Pass through the institution and ICA process where
+required. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+PhD: Student's Pass (usually required): Apply for a Student's Pass through the institution and ICA process where required. Supervisor
+Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires one.
+Research Proposal (programme dependent): Submit the research plan or project description required by the institution. Funding
+Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: SINGA (research programmes), Singapore university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+43. Slovenia (SI)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Slovenian Government scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+44. Thailand (TH)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Thailand International Postgraduate Programme (TIPP).
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+45. Tunisia (TN)
+Bachelor’s: Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the
+programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the
+institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your
+stay.
+PhD: Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Tunisian Government and university scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+46. Türkiye (Turkey) (TR)
+Bachelor’s: Student Residence Permit (usually required): After arrival, complete the student residence permit process within the
+applicable deadline. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and guardian
+details.
+Taught Master’s: Student Residence Permit (usually required): After arrival, complete the student residence permit process within the
+applicable deadline. Degree Recognition (conditional): Provide degree recognition or attestation only where the destination or institution
+requires it.
+Research Master’s: Student Residence Permit (usually required): After arrival, complete the student residence permit process within
+the applicable deadline. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+PhD: Student Residence Permit (usually required): After arrival, complete the student residence permit process within the applicable
+deadline. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when the programme
+requires one. Research Proposal (programme dependent): Submit the research plan or project description required by the institution.
+Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Türkiye Scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+47. United States (US)
+Bachelor’s: Form I-20 (usually required): A SEVP-certified school issues Form I-20 after the required admission and financial checks.
+SEVIS I-901 Fee (usually required): Pay the SEVIS fee where applicable before the visa interview. Guardian Consent (age dependent):
+Applicants under the legal age may need parental consent and guardian details.
+Taught Master’s: Form I-20 (usually required): A SEVP-certified school issues Form I-20 after the required admission and financial
+checks. SEVIS I-901 Fee (usually required): Pay the SEVIS fee where applicable before the visa interview. Degree Recognition
+(conditional): Provide degree recognition or attestation only where the destination or institution requires it.
+Research Master’s: Form I-20 (usually required): A SEVP-certified school issues Form I-20 after the required admission and financial
+checks. SEVIS I-901 Fee (usually required): Pay the SEVIS fee where applicable before the visa interview. Supervisor Confirmation
+(programme dependent): Provide a supervisor acceptance or host confirmation when the programme requires one. Research Proposal
+(programme dependent): Submit the research plan or project description required by the institution. Funding Confirmation (if funded):
+Provide the scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+PhD: Form I-20 (usually required): A SEVP-certified school issues Form I-20 after the required admission and financial checks. SEVIS
+I-901 Fee (usually required): Pay the SEVIS fee where applicable before the visa interview. Supervisor Confirmation (programme
+dependent): Provide a supervisor acceptance or host confirmation when the programme requires one. Research Proposal (programme
+dependent): Submit the research plan or project description required by the institution. Funding Confirmation (if funded): Provide the
+scholarship, assistantship, employment or stipend confirmation if it funds your stay.
+Optional scholarship examples: Fulbright Foreign Student Program, University-funded assistantships and scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+48. United Arab Emirates (AE)
+Bachelor’s: Student Residence Visa (usually required): The university or authorised sponsor arranges the student residence process
+under the applicable emirate rules. Guardian Consent (age dependent): Applicants under the legal age may need parental consent and
+guardian details.
+Taught Master’s: Student Residence Visa (usually required): The university or authorised sponsor arranges the student residence
+process under the applicable emirate rules. Degree Recognition (conditional): Provide degree recognition or attestation only where the
+destination or institution requires it.
+Research Master’s: Student Residence Visa (usually required): The university or authorised sponsor arranges the student residence
+process under the applicable emirate rules. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host
+confirmation when the programme requires one. Research Proposal (programme dependent): Submit the research plan or project
+description required by the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend
+confirmation if it funds your stay.
+PhD: Student Residence Visa (usually required): The university or authorised sponsor arranges the student residence process under the
+applicable emirate rules. Supervisor Confirmation (programme dependent): Provide a supervisor acceptance or host confirmation when
+the programme requires one. Research Proposal (programme dependent): Submit the research plan or project description required by
+the institution. Funding Confirmation (if funded): Provide the scholarship, assistantship, employment or stipend confirmation if it funds
+your stay.
+Optional scholarship examples: University and government scholarships.
+Verification: Check the official immigration/foreign ministry portal and the scholarship provider’s current call before use. The app should store the source
+URL and last-checked date after verification.
+Scholarship layer: display only when selected
+Bachelor’s
+Award Letter: Upload the official award letter if you have been selected. (if awarded)
+Scholarship Conditions: Check whether the award covers tuition, living costs, travel and insurance. (always check)
+Taught Master’s
+Award Letter: Upload the official award letter if you have been selected. (if awarded)
+Study Plan: Submit the scholarship study plan or motivation statement if the award asks for it. (if requested)
+Referee Letters: Provide the required academic or professional references for the scholarship call. (if requested)
+Scholarship Conditions: Check the award duration, coverage, renewal rules and any return obligation. (always check)
+Research Master’s
+Award Letter: Upload the official award letter if you have been selected. (if awarded)
+Research Plan: Submit the scholarship research plan in the required format. (if requested)
+Referee Letters: Provide the required academic or professional references for the scholarship call. (if requested)
+Funding Conditions: Check the stipend, tuition coverage, duration and permitted work conditions. (always check)
+PhD
+Award Letter: Upload the official award letter if you have been selected. (if awarded)
+Research Plan: Submit the doctoral research plan required by the scholarship call. (if requested)
+Referee Letters: Provide the required academic or professional references for the scholarship call. (if requested)
+Funding Conditions: Check the stipend, tuition coverage, duration, renewal and return conditions. (always check)
+Scholarship eligibility warning
+Age limits, work experience, nationality restrictions, eligible courses, referee counts, return-home conditions
+and application routes differ by scholarship and call year. Do not hard-code these as universal requirements.
+Store them per award with an official call URL and validity dates.
+Official reference points
+European Education Area – student visas in Europe
+https://education.ec.europa.eu/news/student-visas-in-europe-what-you-need-to-know
+General European overview; confirms that long-stay permits and country rules vary.
+UK Immigration Rules – Appendix Student
+https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student
+Official UK Student route rules, including CAS, ATAS and TB provisions.
+UK Student visa – money you need
+https://www.gov.uk/student-visa/money
+Official UK financial requirement and nationality-based evidence exceptions.
+UK financial evidence guidance
+https://www.gov.uk/guidance/financial-evidence-for-student-and-child-student-route-applicants
+Official detail on financial evidence and exemptions.
+OECD – International Student Mobility
+https://www.oecd.org/en/publications/international-student-mobility_2f807049-en/full-report/costs-in-international-study_86736c66.html
+Comparative evidence on common student visa documents in selected destinations.
+Implementation notes for the app
+• Use country ISO codes as stable keys, not display names or city names.
+• Keep the four levels distinct: bachelors, taught_masters, research_masters and phd.
+• Keep scholarship lists optional and separate from country visa requirements.
+• Use applicability values to conditionally display items such as nationality_dependent, residence_dependent, course_dependent,
+age_dependent and if_awarded.
+• Do not duplicate core checklist items in country data. If a country-specific financial item replaces a core funds item, ensure the
+replacement key exists for that applicant level; otherwise append it.
+• Do not show old financial amounts as permanent values. Store amount, currency, source URL, effective date and last_checked
+separately, and refresh them from official sources.
+• Each country entry should be completed with official source URLs and a last_checked date before the data is presented as verified.
